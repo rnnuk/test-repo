@@ -1,1 +1,1 @@
-const helloWord = () => console.log('hello worldzz');
+const helloWord = () => console.log('hello worldzz2');
